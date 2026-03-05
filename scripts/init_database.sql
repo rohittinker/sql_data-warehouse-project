@@ -13,7 +13,7 @@ WARNING:
     and ensure you have proper backups before running this script.
 */
 
--- Drop and recreate the 'DataWarehouse' database
+-- Drop  the 'DataWarehouse' database
 DROP DATABASE IF EXISTS DataWarehouse;
 
 
